@@ -1,0 +1,5 @@
+streamlit==1.27.2
+Pillow==9.5.0
+pydicom==2.4.4
+numpy==1.24.2
+easyocr==1.7.1
